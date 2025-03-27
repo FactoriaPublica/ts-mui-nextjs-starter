@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Lorena Fríes
-    subtitle: ''
+    subtitle: 'Trabajando por un país más justo, inclusivo y sostenible.'
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
