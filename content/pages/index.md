@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Lorena Fríes
     subtitle: 'Trabajando por un país más justo, inclusivo y sostenible.'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      *Conoce más sobre mi trabajo*
     actions:
       - type: Button
         label: Start Building
