@@ -5,8 +5,7 @@ sections:
   - type: HeroSection
     title: Lorena Fríes
     subtitle: 'Trabajando por un país más justo, inclusivo y sostenible.'
-    text: |
-      *Conoce más sobre mi trabajo*
+    text: "Diputada del Frente Amplio por el Distrito 10: Santiago, Providencia, Ñuñoa, Macul, La Granja y San Joaquín \U0001F64B\U0001F3FC‍♀️\n"
     actions:
       - type: Button
         label: Start Building
