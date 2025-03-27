@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/DSC09822-scaled-e1703680558777.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
