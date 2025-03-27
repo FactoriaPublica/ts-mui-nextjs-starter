@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 type: Page
 sections:
   - type: HeroSection
